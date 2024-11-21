@@ -56,7 +56,7 @@
 			<uniqueVersion>false</uniqueVersion>
 			<id>BlueBeagleSoltuions</id>
 			<name>Blue Beagle Solutions</name>
-			<url>file:///home/bluebeaglesolutions</url>
+			<url>file:///home</url>
 			<layout>default</layout>
 		</repository>
 	</distributionManagement>
